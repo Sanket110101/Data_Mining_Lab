@@ -1,0 +1,7 @@
+name phone car bike internet bath
+rr yes yes yes yes no
+tt yes yes yes no no
+yy no yes no yes yes
+uu yes yes yes no no
+ii no no no yes no
+oo yes no no no yes

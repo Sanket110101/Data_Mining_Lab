@@ -1,0 +1,15 @@
+Day,Climate,Temp,Humidity,Wind,BatMinton
+Day1,Clear,40,High,Weak,No
+Day2,Clear,40,High,Strong,No
+Day3,Overcast,40,High,Weak,Yes
+Day4,Moist,30,High,Weak,Yes
+Day5,Moist,20,Normal,Weak,Yes
+Day6,Moist,20,Normal,Strong,No
+Day7,Overcast,20,Normal,Strong,Yes
+Day8,Clear,30,High,Weak,No
+Day9,Clear,20,Normal,Weak,Yes
+Day10,Moist,30,Normal,Weak,Yes
+Day11,Clear,30,Normal,Strong,Yes
+Day12,Overcast,30,High,Strong,Yes
+Day13,Overcast,40,Normal,Weak,Yes
+Day14,Moist,30,High,Strong,No
